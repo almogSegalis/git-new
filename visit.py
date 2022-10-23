@@ -16,4 +16,6 @@ def fileMaker(name, visit):
 patientName = input("enter patient name")
 visitRes = input('enter reason for visit:')
 
+# new note
+
 fileMaker(patientName, visitRes)
